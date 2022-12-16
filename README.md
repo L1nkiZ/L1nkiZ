@@ -1,5 +1,4 @@
-# 👋 Hello 👋
-
+# 👋 HELLO 👋
 # 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
 
