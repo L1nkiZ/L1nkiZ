@@ -25,5 +25,5 @@
 </table>  
 
 # 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact" align="center" /></div>
