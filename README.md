@@ -3,7 +3,7 @@
 <h1 align="center">Hello ! 👋</h1>
 
 # 💻 Tech Stack:
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="50%">
       <h2 align="center">Frontend</h2> 
