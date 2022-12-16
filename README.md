@@ -1,4 +1,4 @@
-# 👋 HELLO 👋
+# <h1 align="center">Hello 👋</h1>
 # 💻 Tech Stack:
 <table><tr><td valign="top" width="33%">
 
@@ -25,9 +25,13 @@
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/LinkiZ#9696) 
+<div align="center">
+  [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/LinkiZ#9696) 
+</div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=L1nkiZ&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=L1nkiZ&theme=monokai&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
