@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/zelda_SS.gif" width="100%">
+<img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/pkm_em.gif" width="100%">
 
 <h1 align="center">Hello ! 👋</h1>
 
