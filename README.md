@@ -1,7 +1,6 @@
 <img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/pkm_em.gif" width="100%">
 
 <h1 align="center">Hello ! 👋</h1>
-<h1 align="center"><img src="hello_world.gif" width="100%"></h1>
 
 # 💻 Tech Stack:
 <table align="center">
