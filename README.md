@@ -31,7 +31,7 @@
           <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="75" /></a>
         </div>
     </td>
-    <td valign="top" width="25w%">
+    <td valign="top" width="25%">
         <h2 align="center">DataBase</h2>
         <div align="center">  
           <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="75" /></a>  
@@ -41,5 +41,15 @@
 </table>  
 
 # 📊 GitHub Stats:
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div><br>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nkiZ&theme=monokai&hide_border=false" align="center" /></div>
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" align="center" /></div><br>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nkiZ&theme=monokai&hide_border=false" align="center" /></div> -->  
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishavanand&hide_border=true&layout=compact" align="left" style="width: 100%" />
+    </td>
+  </tr>
+</table>  
