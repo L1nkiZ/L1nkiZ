@@ -5,7 +5,7 @@
 # 💻 Tech Stack:
 <table align="center">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="25%">
       <h2 align="center">Frontend</h2> 
       <div align="center">  
         <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" /></a>  
@@ -15,14 +15,14 @@
         <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="75" /></a>  
       </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="25%">
       <h2 align="center">Backend</h2>
       <div align="center">  
         <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="75" /></a>  
         <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" /></a>  
       </div>
     </td>
-     <td valign="top" width="50%">
+     <td valign="top" width="25%">
         <h2 align="center">Tools</h2>
         <div align="center">  
           <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
@@ -31,7 +31,7 @@
           <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>
         </div>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="25%">
         <h2 align="center">DataBase</h2>
         <div align="center">  
           <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
