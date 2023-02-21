@@ -1,6 +1,8 @@
-<img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/pkm_em.gif" width="100%">
+<!-- <img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/pkm_em.gif" width="100%"> -->
+<img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
 
 <h1 align="center">Hello ! 👋</h1>
+<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Franch+Developer;Student;vuejs+laravel+for+life">
 
 # 💻 Tech Stack:
   <table align="center">
