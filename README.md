@@ -1,7 +1,9 @@
 <img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/pkm_em.gif" width="100%">
 
-<h1 align="center">Hello ! 👋</h1>
-<img align="center" textsrc="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Franch+Web+Developer;Student;Vuejs+Laravel+Enjoyer">
+<h1 align="center">Hello ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> <!-- 👋 -->
+<p style="margin: 15px;" align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=3000&color=006AFE&weight=800&center=true&vCenter=true&lines=French+Developer;Student;VueJS+and+Laravel+Enjoyer">
+</p>
 
 # 💻 Tech Stack:
   <table align="center">
@@ -39,27 +41,21 @@
             <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" />  </a>      
           </div>
       </td>
+    </tr>
   </table>  
 
 # 📊 GitHub Stats:
-  <!-- <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" align="center" />
-  </div> -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" align="center" />
-    <img src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+
+  <div>
+    <img style=" display: block; margin-left: auto; margin-right: auto; width: 50%; margin-bottom : 5px;" src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
+    <img style=" display: block; margin-left: auto; margin-right: auto; width: 50%; margin-bottom : 5px;" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif" />
   </div>
-  <br>
-  <!-- <div align="center">
+  
+<!-- <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" align="center" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nkiZ&theme=monokai&hide_border=false" align="center" />
-  </div> -->
-<!-- <table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&hide_border=true&layout=compact" align="left" style="width: 100%" />
-    </td>
-  </tr>
-</table>   -->
+    <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</div> -->
+
+<!-- CTRL + SHIFT + V FOR TESTING -->
