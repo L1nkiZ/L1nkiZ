@@ -1,8 +1,7 @@
-<!-- <img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/pkm_em.gif" width="100%"> -->
-<img align="center" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
+<img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/pkm_em.gif" width="100%">
 
 <h1 align="center">Hello ! 👋</h1>
-<img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Franch+Developer;Student;vuejs+laravel+for+life">
+<img align="center" textsrc="https://readme-typing-svg.herokuapp.com?duration=2000&color=EBD41B&center=true&vCenter=true&lines=Franch+Web+Developer;Student;Vuejs+Laravel+Enjoyer">
 
 # 💻 Tech Stack:
   <table align="center">
@@ -48,6 +47,7 @@
   </div> -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" align="center" />
+    <img src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif">
   </div>
   <br>
   <!-- <div align="center">
