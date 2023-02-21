@@ -48,7 +48,7 @@
 
   <div>
     <img style=" display: block; margin-left: auto; margin-right: auto; width: 50%; margin-bottom : 5px;" src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" />
-    <img style=" display: block; margin-left: auto; margin-right: auto; width: 50%; margin-bottom : 5px;" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif" />
+    <!-- <img style=" display: block; margin-left: auto; margin-right: auto; width: 50%; margin-bottom : 5px;" src="https://media.giphy.com/media/z5iCvo1oCbqt7ukMQs/giphy.gif" /> -->
   </div>
   
 <!-- <div>
