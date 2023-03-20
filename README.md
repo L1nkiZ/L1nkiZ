@@ -48,7 +48,7 @@
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues" style="height: 140px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&layout=compact&theme=transparent&hide_progress=true&hide=java,hack,C#"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&layout=compact&theme=transparent&hide_progress=true&hide=java,hack,c%23,python,typescript,shell"/>
   </div>
   
 <!-- <div>
