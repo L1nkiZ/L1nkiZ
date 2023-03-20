@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> <!-- 👋 -->
 <p style="margin: 15px;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=3000&color=E6F116&weight=800&center=true&vCenter=true&lines=French+Developer;Student;VueJS+and+Laravel+Enjoyer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=3000&color=006AFE&weight=800&center=true&vCenter=true&lines=French+Developer;Student;VueJS+and+Laravel+Enjoyer">
 </p>
 
 # 💻 Tech Stack:
@@ -47,8 +47,8 @@
 # 📊 GitHub Stats:
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues" style="height: 140px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&layout=compact&theme=highcontrast&hide_progress=true&hide=java,hack,C#"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues" style="height: 140px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&layout=compact&theme=transparent&hide_progress=true&hide=java,hack,C#"/>
   </div>
   
 <!-- <div>
