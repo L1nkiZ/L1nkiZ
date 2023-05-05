@@ -101,25 +101,13 @@
 </div>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
-      https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake-dark.svg
-    "
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="
-      https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake.svg
-    "
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snake.svg" />
+  <img alt="github-snake" src="snake.svg" />
 </picture>
 
-<img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake-dark.svg" alt="Snake animation" />
+
+<!-- <img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake-dark.svg" alt="Snake animation" /> -->
   
 <!-- <div>
     <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" align="center" />
@@ -129,20 +117,3 @@
 </div> -->
 
 <!-- CTRL + SHIFT + V FOR TESTING -->
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/L/L/output/snake.svg" alt="Snake animation" />
-
-###
