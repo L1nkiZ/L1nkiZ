@@ -12,16 +12,15 @@
         <h2 align="center">Frontend</h2> 
         <div align="center">  
           <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />
-            </a>  
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75" width="75" alt="html5 logo"  />  
           <a href="https://www.w3schools.com/css/" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />
+              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" width="75" alt="css3 logo"  />
             </a>  
           <a href="https://www.javascript.com/" target="_blank">
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />
             </a>  
           <a href="https://vuejs.org/" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="75" />
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="75" width="75" alt="vuejs logo"  />
           </a>
           <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" width="75" alt="bootstrap logo"  />
@@ -119,6 +118,8 @@
     src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake.svg"
   />
 </picture>
+
+<img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake-dark.svg" alt="Snake animation" />
   
 <!-- <div>
     <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" align="center" />
@@ -128,3 +129,20 @@
 </div> -->
 
 <!-- CTRL + SHIFT + V FOR TESTING -->
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/L/L/output/snake.svg" alt="Snake animation" />
+
+###
