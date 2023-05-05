@@ -97,13 +97,9 @@
 
 # 📎 Connect with me: <a href="https://discord.gg/LinkiZ#9696" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="LinkiZ#9696" height="30" width="40" /></a>
 
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/L1nkiZ/count.svg?id=L1nkiZ"  />
 </div>
-
-###
 
 <picture>
   <source
