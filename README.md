@@ -89,12 +89,13 @@
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues" style="height: 140px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&layout=compact&theme=transparent&hide_progress=true&hide=java,hack,c%23,python,typescript,shell" style="height: 140px"/>
+    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&layout=compact&theme=transparent&hide_progress=true&hide=java,hack,c%23,python,typescript,shell" style="height: 140px"/> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&theme=transparent&hide_progress=true&hide=java,c%23,hack,python,shell,typescript" style="height: 140px"/>
   </div>
 
 <br>
 
-# 📎 Connect with me: <a href="https://discord.gg/LinkiZ#9696" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="LinkiZ#9696" height="30" width="40" /></a>
+# 📎 Connect with me: <a href="https://discordapp.com/users/277474721384235009" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="LinkiZ#9696" height="30" width="40" /></a>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/L1nkiZ/count.svg?id=L1nkiZ"  />
