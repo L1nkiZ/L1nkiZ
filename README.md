@@ -95,7 +95,7 @@
 
 <br>
 
-# 📎 Connect with me: <a href="https://discordapp.com/users/277474721384235009" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="LinkiZ#9696" height="30" width="40" /></a>
+# 📎 Connect with me: <a href="https://discordapp.com/users/277474721384235009" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" alt="LinkiZ#9696" height="30" width="40" /></a><a href="https://www.linkedin.com/in/guillaume-gerard-779838246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="LinkiZ#9696" height="30" width="40" /></a>
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/L1nkiZ/count.svg?id=L1nkiZ"  />
