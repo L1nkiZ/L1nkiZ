@@ -6,45 +6,35 @@
 </p>
 
 # 💻 Tech Stack:
+
   <table align="center">
     <tr>
       <td valign="top" width="25%">
         <h2 align="center">Frontend</h2> 
         <div align="center">  
-          <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="75" width="75" alt="html5 logo"  />  
-          <a href="https://www.w3schools.com/css/" target="_blank">
-              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="75" width="75" alt="css3 logo"  />
-            </a>  
-          <a href="https://www.javascript.com/" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />
-            </a>  
           <a href="https://vuejs.org/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="75" width="75" alt="vuejs logo"  />
           </a>
+          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="75" width="75" alt="react logo"  /> 
+          </a>
           <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="75" width="75" alt="bootstrap logo"  />
-          </a>  
+          </a> 
+          <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="75" height="75"/>
+          </a> 
         </div>
       </td>
       <td valign="top" width="25%">
         <h2 align="center">Backend</h2>
         <div align="center">  
           <a href="https://laravel.com/" target="_blank">
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="75" width="75" alt="laravel logo"  />
+            <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="75" width="75" alt="laravel logo"  />
           </a>  
           <a href="https://www.php.net/" target="_blank">
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />
           </a>  
-          <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="75" width="75" alt="react logo"  /> 
-          </a> 
-          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="75" height="75"/> 
-          </a>   
-          <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="75" height="75"/> 
-          </a>   
         </div>
       </td>
       <td valign="top" width="25%">
@@ -68,7 +58,6 @@
             <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="75" width="75" alt="npm logo"  />
             </a> 
-              <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" height="40" width="52" alt="ionic logo"  /> -->
           </div>
       </td>
       <td valign="top" width="25%">
@@ -83,7 +72,7 @@
           </div>
       </td>
     </tr>
-  </table>  
+  </table>
 
 # 📊 GitHub Stats:
 
@@ -107,9 +96,8 @@
   <img alt="github-snake" src="snake.svg" />
 </picture>
 
-
 <!-- <img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake-dark.svg" alt="Snake animation" /> -->
-  
+
 <!-- <div>
     <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&theme=monokai&hide_border=false&include_all_commits=true&count_private=true" align="center" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1nkiZ&theme=monokai&hide_border=false" align="center" />
