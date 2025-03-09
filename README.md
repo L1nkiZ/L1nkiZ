@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/pkm_em.gif" width="100%">
+<img src="tw.gif" width="100%">
 
 <h1 align="center">Hello ! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1> <!-- 👋 -->
 <p style="margin: 15px;" align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=3000&color=006AFE&weight=800&center=true&vCenter=true&lines=French+Developer;Student;VueJS+and+Laravel+Enjoyer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Nunito&size=30&duration=3000&color=11ab71&weight=800&center=true&vCenter=true&lines=French+Developer;Student;VueJS+and+Laravel+Enjoyer">
 </p>
 
 # 💻 Tech Stack:
@@ -30,12 +30,16 @@
         <h2 align="center">Backend</h2>
         <div align="center">  
           <a href="https://laravel.com/" target="_blank">
-            <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="75" width="75" alt="laravel logo"  />
+        <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="75" width="75" alt="laravel logo"  />
           </a>  
-          <a href="https://www.php.net/" target="_blank">
-            <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />
-          </a>  
+          <!-- <a href="https://www.php.net/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />
+          </a>   -->
+          <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="75" /></a>
         </div>
+        <div align="center">
+
+</div>
       </td>
       <td valign="top" width="25%">
           <h2 align="center">Tools</h2>
@@ -77,9 +81,8 @@
 # 📊 GitHub Stats:
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues" style="height: 140px"/>
-    <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&layout=compact&theme=transparent&hide_progress=true&hide=java,hack,c%23,python,typescript,shell" style="height: 140px"/> -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&theme=transparent&hide_progress=true&hide=java,c%23,hack,python,shell,typescript" style="height: 140px"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&title_color=11ab71&text_color=11ab71" style="height: 140px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&theme=transparent&hide_progress=true&hide=java,c%23,hack,python,shell,typescript&title_color=11ab71&text_color=11ab71" style="height: 140px"/>
   </div>
 
 <br>
