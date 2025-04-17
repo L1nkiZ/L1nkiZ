@@ -28,52 +28,52 @@
 
 <table>
   <tr>
-    <td align="right"><strong>Frontend:</strong></td>
+    <td><strong>Frontend:</strong></td>
     <td>
       <a href="https://vuejs.org/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" />
-      </a>
-      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo" />
       </a>
       <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"/>
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind"  height="50"/>
+      </a>
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="right"><strong>Backend:</strong></td>
+    <td><strong>Backend:</strong></td>
     <td>
       <a href="https://laravel.com/" target="_blank">
-        <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo" />
+        <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo" />
       </a>
       <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="right"><strong>Database:</strong></td>
+    <td><strong>Database:</strong></td>
     <td>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" />
-      </a>
       <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+      </a>
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
       </a>
     </td>
   </tr>
   <tr>
-    <td align="right"><strong>Tools:</strong></td>
+    <td ><strong>Tools:</strong></td>
     <td>
       <a href="https://www.adobe.com/in/products/xd.html" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />
       </a>
       <a href="https://postman.com" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="50"/>
       </a>
       <a href="https://github.com/" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+        <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
       </a>
     </td>
   </tr>
