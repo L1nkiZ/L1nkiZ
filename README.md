@@ -28,7 +28,7 @@
 
 <table>
   <tr>
-    <td><strong>Frontend:</strong></td>
+    <td><strong>Frontends</strong></td>
     <td>
       <a href="https://vuejs.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="50" alt="vuejs logo" />
@@ -42,18 +42,18 @@
     </td>
   </tr>
   <tr>
-    <td><strong>Backend:</strong></td>
+    <td><strong>Backends</strong></td>
     <td>
       <a href="https://laravel.com/" target="_blank">
         <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="50" alt="laravel logo" />
       </a>
-      <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" />
+      <a href="https://dotnet.microsoft.com/download" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" />
       </a>
     </td>
   </tr>
   <tr>
-    <td><strong>Database:</strong></td>
+    <td><strong>Databases</strong></td>
     <td>
       <a href="https://www.postgresql.org/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
@@ -61,13 +61,16 @@
       <a href="https://www.mysql.com/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
       </a>
+      <a href="https://www.oracle.com/in/index.html" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="50" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td ><strong>Tools:</strong></td>
+    <td><strong>Tools</strong></td>
     <td>
-      <a href="https://www.adobe.com/in/products/xd.html" target="_blank">
-        <img src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />
+      <a href="https://www.docker.com/" target="_blank">
+        <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
       </a>
       <a href="https://postman.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman"  height="50"/>
@@ -75,22 +78,32 @@
       <a href="https://github.com/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
       </a>
+      <a href="https://about.gitlab.com/topics/ci-cd/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" alt="CI/CD" height="50" />
+      </a>
     </td>
   </tr>
 </table>
+
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&theme=transparent&hide_progress=true&hide=java,css,hack&title_color=11ab71&text_color=11ab71" alt="Top Languages" height="140"/>
+</div>
+
+
 
 <!-- # 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=L1nkiZ&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&hide=contribs,issues&title_color=11ab71&text_color=11ab71" alt="GitHub Stats" height="140"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1nkiZ&theme=transparent&hide_progress=true&hide=java,css,typescript&title_color=11ab71&text_color=11ab71" alt="Top Languages" height="140"/>
-</p> -->
+</p>
 
 <!-- <div align="center">
   <img src="https://profile-counter.glitch.me/L1nkiZ/count.svg?id=L1nkiZ"  />
-</div> -->
+</div>
 
-<!-- <picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/snake.svg" />
   <img src="https://raw.githubusercontent.com/L1nkiZ/L1nkiZ/master/snake-dark.svg" alt="Snake animation" />
